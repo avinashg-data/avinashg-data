@@ -4,8 +4,7 @@
 ![Matrix GIF](https://raw.githubusercontent.com/KShukhrat/KShukhrat/main/assets/header_gif.gif)
 
 <h1 align="center">Avinash Gupta</h1>
-- 🎯 Aspiring Data Analyst
-- 🚀 Passionate about data-driven decision making
+ 🎯 Aspiring Data Analyst | Passionate about data-driven decision making
 
 
 ---
