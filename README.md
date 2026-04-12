@@ -11,11 +11,11 @@
 
 ## 👨‍💻 About Me
 
-📊 Strong interest in **Data Analysis & Visualization**
-🧠 Analytical and detail-oriented with problem-solving mindset
-🏠 Background in Home Automation Systems & Programming
-📈 Focused on turning data into meaningful insights for business growth
-📌 Seeking opportunities to apply my skills, gain hands-on experience, and contribute to data-driven decision-making
+📊 Strong interest in **Data Analysis & Visualization**  
+🧠 Analytical and detail-oriented with problem-solving mindset  
+🏠 Background in Home Automation Systems & Programming  
+📈 Focused on turning data into meaningful insights for business growth  
+📌 Seeking opportunities to apply my skills, gain hands-on experience, and contribute to data-driven decision-making  
 
 ---
 
