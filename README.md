@@ -29,7 +29,7 @@
 ## 📂 Projects
 
 - **[Hotel Booking Cancellation Analysis](https://github.com/avinashg-data/Hotel-Booking-Cancellation-Analysis)**
-- **Zepto E-commerce Data Analysis**
+- **[Zepto E-commerce Data Analysis](https://github.com/avinashg-data/Zepto-E-commerce-Data-Analysis)**
  
 
 ---
